@@ -1,0 +1,14 @@
+body{
+    background-color: #111;color:#8da;font-family:monospace}
+a{
+    color:#aff}
+h1{
+    font-size:25px}
+p{
+    font-size:12px}
+button
+    {background-color: #222;color:#8da;font-family:monospace}
+.center
+    {margin-left:auto;margin-right:auto;width:fit-content;text-align:center}
+.container
+    {background-color: #151515;padding:10px}
