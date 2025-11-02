@@ -6,7 +6,7 @@ window.addEventListener('resize', resizeMiddle)
 document.addEventListener('DOMContentLoaded', resizeMiddle)
 
 const pages = [
-    ["a particle based simulator for echolocation", "https://amins128.github.io/echo", "Echo"],
+    ["a particle-based simulator for echolocation", "https://amins128.github.io/echo", "Echo"],
     ["a utility for text-based display", "https://amins128.github.io/misc/typewriter.js", "typewriter.js"],
     ["a Chrome extension that detects AI images", "https://github.com/amins128/aichecker", "Hopecheck"],
     ["an AI image detector benchmarking site", "https://amins128.github.io/aichecker/bench", "aichecker/bench"],
