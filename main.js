@@ -11,6 +11,7 @@ const pages = [
     ["a Chrome extension that detects AI images", "https://github.com/amins128/aichecker", "Hopecheck"],
     ["an AI image detector benchmarking site", "https://amins128.github.io/aichecker/bench", "aichecker/bench"],
     ["a 2D rigid-body physics library", "https://amins128.github.io/badrb", "BadRB"],
+    ["a chemical simulation teaching aid", "https://amins128.github.io/chem", "RadicalSim"],
 ]
 
 document.addEventListener('DOMContentLoaded', ()=>{
